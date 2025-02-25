@@ -23,7 +23,6 @@ These algorithms have been tested in urban mobility scenarios, demonstrating sig
 - **Urban Mobility Optimization**: Facilitates trip coordination to reduce urban congestion and CO₂ emissions.
 
 ## Installation
-
 1. Clone the repository:
 
    ```bash
